@@ -7,17 +7,11 @@
     "start": "node index.js"
   },
   "dependencies": {
-<<<<<<< HEAD
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.21.0",
     "mongoose": "^8.7.0",
     "multer": "^1.4.5-lts.1"
-=======
-    "dotenv": "^8.2.0",
-    "express": "^4.16.4",
-    "cors": "^2.8.5"
->>>>>>> 49efa7a6bf3e68ffb8635c7d00253c2ec0342e63
   },
   "repository": {
     "type": "git",
